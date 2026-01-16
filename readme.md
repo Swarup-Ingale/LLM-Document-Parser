@@ -10,11 +10,11 @@ An advanced document parsing system powered by Large Language Models (LLMs) that
 
 ## Set up
 1. Clone the repository:
-        ```bash
+   ```bash
         git clone https://github.com/Swarup-Ingale/LLM-Document-Parser
         cd Document_Parser_LLM
 2. Install dependencies:
-        ```bash
+   ```bash
         pip install -r requirements.txt
 3. Set up environment variables:
         .env file
