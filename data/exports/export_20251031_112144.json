@@ -1,0 +1,126 @@
+{
+  "export_info": {
+    "export_date": "2025-10-31T11:21:44.028381",
+    "total_documents": 1,
+    "format": "json",
+    "version": "1.0"
+  },
+  "documents": [
+    {
+      "_id": "69044e51852ab50147ce9af8",
+      "document_id": "40979249-8ffe-45c3-8fe4-a19384c31b9c",
+      "user_id": "69044b2c4dac1c3d063f8b39",
+      "filename": "Contract_18.pdf",
+      "file_type": "pdf",
+      "file_size": 0,
+      "document_type": "contract",
+      "extraction_data": {
+        "patterns": {
+          "contract_id": [
+            "Recipient",
+            "with",
+            "COVER",
+            "DEMIN45624893"
+          ],
+          "term": [
+            "0 Years"
+          ],
+          "supplier": [
+            "Name"
+          ]
+        },
+        "contacts": {
+          "phone": [
+            "6 317-452-3743",
+            "20-200000-5352"
+          ],
+          "name": [
+            "Duke Energy"
+          ],
+          "company": [
+            "ative Action Plan Complete "
+          ],
+          "zip_code": [
+            "14118",
+            "53520",
+            "47408",
+            "14144"
+          ]
+        },
+        "names": {
+          "candidate_names": [
+            "Christopher Wheeler",
+            "Mike Rouker",
+            "Christina Smith",
+            "Duke Energy Department Head Initials of Approval",
+            "Page 2"
+          ],
+          "primary_name": "Christopher Wheeler"
+        },
+        "entities": {
+          "PERSON": [
+            "Christopher Wheeler",
+            "Mike Rouker",
+            "Christina Smith",
+            "Page 2"
+          ],
+          "ORG": [
+            "Outdoor Lighting Service Agreement",
+            "Duke Energy at Intersection of E Discovery Pkwy",
+            "Duke Energy Department Head Initials of Approval",
+            "Responsible Department",
+            "NA",
+            "Legal Department Internal Tracking #",
+            "NA Renewal Date for Contract",
+            "W9/EFT Complete",
+            "Responsible Dept",
+            "Bypass Locations",
+            "GRAY-IV-M Rental",
+            "F&E Totals"
+          ],
+          "GPE": [
+            "Mo."
+          ],
+          "DATE": [
+            "Monthly",
+            "45624893",
+            "47408",
+            "1\"=50",
+            "Months"
+          ],
+          "MONEY": [
+            "14,118.04",
+            "26.24",
+            "$14,118.04",
+            "15.50",
+            "10.74",
+            "14,144.28"
+          ],
+          "PRODUCT": [
+            "Equip",
+            "Y W K P"
+          ]
+        },
+        "features": {
+          "email_count": 0,
+          "phone_count": 2,
+          "currency_count": 8,
+          "date_count": 1,
+          "person_count": 8,
+          "org_count": 17,
+          "text_length": 2573
+        }
+      },
+      "processing_time": "2025-10-31T11:21:12.422958",
+      "text_preview": "CONTRACT COVER MEMORANDUM TO: Christopher Wheeler, Mike Rouker, Heather Lacy FROM: Christina Smith DATE: 09.22.2022 RE: Outdoor Lighting Service Agreement with Duke Energy at Intersection of E Discovery Pkwy and SR 45/46 Bypass Contract Recipient/Vendor Name: Duke Energy Department Head Initials of Approval: AW Responsible Department Staff: Christina Smith (Return signed copy to responsible staff) Responsible Attorney: Christopher Wheeler, Mike Rouker, Heather Lacy (Return signed copy to responsible attorney) Record Destruction Date: NA (Legal to fill in) Legal Department Internal Tracking #: 22-517 (Legal to fill in) Due Date For Signature: 09.27.2022 Expiration Date of Contract: NA Renewal Date for Contract: NA Total Dollar Amount of Contract: Equip. Costs $14,118.04; Mo. Costs $26.24 Funding Source: 450-20-200000-53520 W9/EFT Complete: NA (Staff Member of Responsible Dept. to fill in) Affirmative Action Plan Complete (if applicable): NA (Staff Member of Responsible Dept. to fill in)...",
+      "full_text": "CONTRACT COVER MEMORANDUM TO: Christopher Wheeler, Mike Rouker, Heather Lacy FROM: Christina Smith DATE: 09.22.2022 RE: Outdoor Lighting Service Agreement with Duke Energy at Intersection of E Discovery Pkwy and SR 45/46 Bypass Contract Recipient/Vendor Name: Duke Energy Department Head Initials of Approval: AW Responsible Department Staff: Christina Smith (Return signed copy to responsible staff) Responsible Attorney: Christopher Wheeler, Mike Rouker, Heather Lacy (Return signed copy to responsible attorney) Record Destruction Date: NA (Legal to fill in) Legal Department Internal Tracking #: 22-517 (Legal to fill in) Due Date For Signature: 09.27.2022 Expiration Date of Contract: NA Renewal Date for Contract: NA Total Dollar Amount of Contract: Equip. Costs $14,118.04; Mo. Costs $26.24 Funding Source: 450-20-200000-53520 W9/EFT Complete: NA (Staff Member of Responsible Dept. to fill in) Affirmative Action Plan Complete (if applicable): NA (Staff Member of Responsible Dept. to fill in)...",
+      "preview_data": {
+        "preview_generated": true,
+        "preview_url": "/api/previews/40979249-8ffe-45c3-8fe4-a19384c31b9c/preview",
+        "thumbnail_url": "/api/previews/40979249-8ffe-45c3-8fe4-a19384c31b9c/thumbnail"
+      },
+      "created_at": "2025-10-31T11:21:13.586000",
+      "updated_at": "2025-10-31T11:21:13.586000"
+    }
+  ]
+}

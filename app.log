@@ -1,0 +1,1210 @@
+2025-10-29 22:29:01,640 - __main__ - INFO - MongoDB connected successfully
+2025-10-29 22:29:04,438 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:29:04,440 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:29:04,441 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:29:04,447 - src.search_engine - ERROR - Error creating search indexes: Index already exists with a different name: user_id_1_created_at_-1, full error: {'ok': 0.0, 'errmsg': 'Index already exists with a different name: user_id_1_created_at_-1', 'code': 85, 'codeName': 'IndexOptionsConflict'}
+2025-10-29 22:29:04,450 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:29:04,470 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:29:04,471 - __main__ - INFO - Model loaded: True
+2025-10-29 22:29:04,471 - __main__ - INFO - Database connected: True
+2025-10-29 22:29:04,471 - __main__ - INFO - Search Engine: ✅ Ready
+2025-10-29 22:29:04,472 - __main__ - INFO - Export System: ✅ Ready
+2025-10-29 22:29:04,472 - __main__ - INFO - Preview System: ✅ Ready
+2025-10-29 22:29:04,472 - __main__ - INFO - Background Processing: ✅ Ready
+2025-10-29 22:29:04,472 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:29:04,472 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:29:05,782 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.81.220.26:5000
+2025-10-29 22:29:05,782 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 22:29:05,797 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 22:29:12,073 - __main__ - INFO - MongoDB connected successfully
+2025-10-29 22:29:14,892 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:29:14,893 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:29:14,894 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:29:14,897 - src.search_engine - ERROR - Error creating search indexes: Index already exists with a different name: user_id_1_created_at_-1, full error: {'ok': 0.0, 'errmsg': 'Index already exists with a different name: user_id_1_created_at_-1', 'code': 85, 'codeName': 'IndexOptionsConflict'}
+2025-10-29 22:29:14,898 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:29:14,916 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:29:14,919 - __main__ - INFO - Model loaded: True
+2025-10-29 22:29:14,921 - __main__ - INFO - Database connected: True
+2025-10-29 22:29:14,922 - __main__ - INFO - Search Engine: ✅ Ready
+2025-10-29 22:29:14,922 - __main__ - INFO - Export System: ✅ Ready
+2025-10-29 22:29:14,922 - __main__ - INFO - Preview System: ✅ Ready
+2025-10-29 22:29:14,923 - __main__ - INFO - Background Processing: ✅ Ready
+2025-10-29 22:29:14,923 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:29:14,923 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:29:14,931 - werkzeug - WARNING -  * Debugger is active!
+2025-10-29 22:29:14,942 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-29 22:29:51,833 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:29:51] "GET / HTTP/1.1" 200 -
+2025-10-29 22:29:52,161 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:29:52] "GET /api/health HTTP/1.1" 200 -
+2025-10-29 22:29:52,339 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:29:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-29 22:29:57,287 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:29:57] "GET /api/health HTTP/1.1" 200 -
+2025-10-29 22:31:05,788 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM ML VERSION with Enhancements\\src\\search_engine.py', reloading
+2025-10-29 22:31:08,150 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 22:31:17,236 - __main__ - INFO - MongoDB connected successfully
+2025-10-29 22:31:21,605 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:31:21,610 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:31:21,610 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:31:21,625 - src.search_engine - ERROR - Error creating search indexes: Index already exists with a different name: user_id_1_created_at_-1, full error: {'ok': 0.0, 'errmsg': 'Index already exists with a different name: user_id_1_created_at_-1', 'code': 85, 'codeName': 'IndexOptionsConflict'}
+2025-10-29 22:31:21,629 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:31:21,671 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:31:21,672 - __main__ - INFO - Model loaded: True
+2025-10-29 22:31:21,672 - __main__ - INFO - Database connected: True
+2025-10-29 22:31:21,674 - __main__ - INFO - Search Engine: ✅ Ready
+2025-10-29 22:31:21,674 - __main__ - INFO - Export System: ✅ Ready
+2025-10-29 22:31:21,675 - __main__ - INFO - Preview System: ✅ Ready
+2025-10-29 22:31:21,676 - __main__ - INFO - Background Processing: ✅ Ready
+2025-10-29 22:31:21,676 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:31:21,677 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:31:21,692 - werkzeug - WARNING -  * Debugger is active!
+2025-10-29 22:31:21,705 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-29 22:33:27,238 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\base.py', reloading
+2025-10-29 22:33:27,241 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\calibration.py', reloading
+2025-10-29 22:33:27,242 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\conftest.py', reloading
+2025-10-29 22:33:27,243 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\discriminant_analysis.py', reloading
+2025-10-29 22:33:27,244 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\dummy.py', reloading
+2025-10-29 22:33:27,252 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\exceptions.py', reloading
+2025-10-29 22:33:27,254 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\isotonic.py', reloading
+2025-10-29 22:33:27,258 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\kernel_approximation.py', reloading
+2025-10-29 22:33:27,262 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\kernel_ridge.py', reloading
+2025-10-29 22:33:27,264 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\multiclass.py', reloading
+2025-10-29 22:33:27,453 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\multioutput.py', reloading
+2025-10-29 22:33:27,454 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\naive_bayes.py', reloading
+2025-10-29 22:33:27,455 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\pipeline.py', reloading
+2025-10-29 22:33:27,456 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\random_projection.py', reloading
+2025-10-29 22:33:27,457 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\_built_with_meson.py', reloading
+2025-10-29 22:33:27,458 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\_config.py', reloading
+2025-10-29 22:33:27,461 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\_distributor_init.py', reloading
+2025-10-29 22:33:27,462 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\_min_dependencies.py', reloading
+2025-10-29 22:33:27,463 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\__init__.py', reloading
+2025-10-29 22:33:27,466 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_affinity_propagation.py', reloading
+2025-10-29 22:33:27,471 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_agglomerative.py', reloading
+2025-10-29 22:33:27,473 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_bicluster.py', reloading
+2025-10-29 22:33:27,475 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_birch.py', reloading
+2025-10-29 22:33:27,480 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_bisect_k_means.py', reloading
+2025-10-29 22:33:27,483 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_dbscan.py', reloading
+2025-10-29 22:33:27,487 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_feature_agglomeration.py', reloading
+2025-10-29 22:33:27,489 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_kmeans.py', reloading
+2025-10-29 22:33:27,496 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_mean_shift.py', reloading
+2025-10-29 22:33:27,497 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_optics.py', reloading
+2025-10-29 22:33:27,498 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_spectral.py', reloading
+2025-10-29 22:33:27,502 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\__init__.py', reloading
+2025-10-29 22:33:27,506 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\common.py', reloading
+2025-10-29 22:33:27,516 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_affinity_propagation.py', reloading
+2025-10-29 22:33:27,529 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_bicluster.py', reloading
+2025-10-29 22:33:27,551 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_birch.py', reloading
+2025-10-29 22:33:27,559 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_bisect_k_means.py', reloading
+2025-10-29 22:33:27,587 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_dbscan.py', reloading
+2025-10-29 22:33:27,593 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_feature_agglomeration.py', reloading
+2025-10-29 22:33:27,600 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_hdbscan.py', reloading
+2025-10-29 22:33:27,606 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_hierarchical.py', reloading
+2025-10-29 22:33:27,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_k_means.py', reloading
+2025-10-29 22:33:27,624 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_mean_shift.py', reloading
+2025-10-29 22:33:27,631 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_optics.py', reloading
+2025-10-29 22:33:27,640 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\test_spectral.py', reloading
+2025-10-29 22:33:27,648 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\tests\\__init__.py', reloading
+2025-10-29 22:33:27,660 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_hdbscan\\hdbscan.py', reloading
+2025-10-29 22:33:27,666 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_hdbscan\\__init__.py', reloading
+2025-10-29 22:33:27,671 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_hdbscan\\tests\\test_reachibility.py', reloading
+2025-10-29 22:33:27,674 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\cluster\\_hdbscan\\tests\\__init__.py', reloading
+2025-10-29 22:33:27,683 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\compose\\_column_transformer.py', reloading
+2025-10-29 22:33:27,684 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\compose\\_target.py', reloading
+2025-10-29 22:33:27,687 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\compose\\__init__.py', reloading
+2025-10-29 22:33:27,691 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\compose\\tests\\test_column_transformer.py', reloading
+2025-10-29 22:33:27,694 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\compose\\tests\\test_target.py', reloading
+2025-10-29 22:33:27,698 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\compose\\tests\\__init__.py', reloading
+2025-10-29 22:33:27,707 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\_elliptic_envelope.py', reloading
+2025-10-29 22:33:27,711 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\_empirical_covariance.py', reloading
+2025-10-29 22:33:27,713 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\_graph_lasso.py', reloading
+2025-10-29 22:33:27,714 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\_robust_covariance.py', reloading
+2025-10-29 22:33:27,716 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\_shrunk_covariance.py', reloading
+2025-10-29 22:33:27,718 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\__init__.py', reloading
+2025-10-29 22:33:27,721 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\tests\\test_covariance.py', reloading
+2025-10-29 22:33:27,723 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\tests\\test_elliptic_envelope.py', reloading
+2025-10-29 22:33:27,724 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\tests\\test_graphical_lasso.py', reloading
+2025-10-29 22:33:27,728 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\~klearn\\covariance\\tests\\test_robust_covariance.py', reloading
+2025-10-29 22:33:29,777 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 22:35:10,835 - __main__ - INFO - MongoDB connected successfully
+2025-10-29 22:35:12,199 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:35:12,199 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:35:12,199 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:35:12,200 - src.search_engine - INFO - Dropping conflicting index: user_id_1_created_at_-1
+2025-10-29 22:35:12,208 - src.search_engine - INFO - Text search index created successfully
+2025-10-29 22:35:12,246 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-29 22:35:12,273 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-29 22:35:12,274 - src.search_engine - INFO - Search indexes setup completed
+2025-10-29 22:35:12,275 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:35:12,283 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:35:12,283 - __main__ - INFO - Model loaded: True
+2025-10-29 22:35:12,283 - __main__ - INFO - Database connected: True
+2025-10-29 22:35:12,283 - __main__ - INFO - Search Engine: ✅ Ready
+2025-10-29 22:35:12,284 - __main__ - INFO - Export System: ✅ Ready
+2025-10-29 22:35:12,284 - __main__ - INFO - Preview System: ✅ Ready
+2025-10-29 22:35:12,284 - __main__ - INFO - Background Processing: ✅ Ready
+2025-10-29 22:35:12,284 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:35:12,284 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:35:13,578 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.81.220.26:5000
+2025-10-29 22:35:13,579 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 22:35:13,596 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 22:35:16,953 - __main__ - ERROR - Failed to connect to MongoDB: Index already exists with a different name: user_recency_index, full error: {'ok': 0.0, 'errmsg': 'Index already exists with a different name: user_recency_index', 'code': 85, 'codeName': 'IndexOptionsConflict'}
+2025-10-29 22:35:18,412 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:35:18,413 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:35:18,413 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:35:18,414 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-29 22:35:18,415 - src.search_engine - INFO - Text search index created successfully
+2025-10-29 22:35:18,416 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-29 22:35:18,444 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-29 22:35:18,444 - src.search_engine - INFO - Search indexes setup completed
+2025-10-29 22:35:18,444 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:35:18,452 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:35:18,452 - __main__ - INFO - Model loaded: True
+2025-10-29 22:35:18,452 - __main__ - INFO - Database connected: False
+2025-10-29 22:35:18,452 - __main__ - INFO - Search Engine: ✅ Ready
+2025-10-29 22:35:18,452 - __main__ - INFO - Export System: ✅ Ready
+2025-10-29 22:35:18,453 - __main__ - INFO - Preview System: ✅ Ready
+2025-10-29 22:35:18,453 - __main__ - INFO - Background Processing: ✅ Ready
+2025-10-29 22:35:18,453 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:35:18,453 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:35:18,456 - werkzeug - WARNING -  * Debugger is active!
+2025-10-29 22:35:18,460 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-29 22:38:50,478 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymongo\\_csot.py', reloading
+2025-10-29 22:38:52,057 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 22:38:55,430 - __main__ - ERROR - Failed to connect to MongoDB: Index already exists with a different name: user_recency_index, full error: {'ok': 0.0, 'errmsg': 'Index already exists with a different name: user_recency_index', 'code': 85, 'codeName': 'IndexOptionsConflict'}
+2025-10-29 22:38:56,851 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:38:56,852 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:38:56,852 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:38:56,853 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-29 22:38:56,855 - src.search_engine - INFO - Text search index created successfully
+2025-10-29 22:38:56,855 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-29 22:38:56,886 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-29 22:38:56,886 - src.search_engine - INFO - Search indexes setup completed
+2025-10-29 22:38:56,887 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:38:56,893 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:38:56,893 - __main__ - INFO - Model loaded: True
+2025-10-29 22:38:56,894 - __main__ - INFO - Database connected: False
+2025-10-29 22:38:56,894 - __main__ - INFO - Search Engine: ✅ Ready
+2025-10-29 22:38:56,894 - __main__ - INFO - Export System: ✅ Ready
+2025-10-29 22:38:56,894 - __main__ - INFO - Preview System: ✅ Ready
+2025-10-29 22:38:56,894 - __main__ - INFO - Background Processing: ✅ Ready
+2025-10-29 22:38:56,894 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:38:56,894 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:38:56,898 - werkzeug - WARNING -  * Debugger is active!
+2025-10-29 22:38:56,901 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-29 22:38:58,728 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+2025-10-29 22:38:59,810 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 22:39:03,171 - __main__ - INFO - MongoDB connected successfully
+2025-10-29 22:42:02,260 - __main__ - INFO - MongoDB connected successfully
+2025-10-29 22:42:03,609 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:42:03,610 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:42:03,610 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:42:03,611 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-29 22:42:03,612 - src.search_engine - INFO - Text search index created successfully
+2025-10-29 22:42:03,612 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-29 22:42:03,651 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-29 22:42:03,652 - src.search_engine - INFO - Search indexes setup completed
+2025-10-29 22:42:03,652 - __main__ - INFO - Search engine initialized successfully
+2025-10-29 22:42:03,652 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:42:03,660 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:42:03,660 - __main__ - INFO - Model loaded: True
+2025-10-29 22:42:03,660 - __main__ - INFO - Database connected: True
+2025-10-29 22:42:03,660 - __main__ - INFO - Search Engine: [READY]
+2025-10-29 22:42:03,660 - __main__ - INFO - Export System: [READY]
+2025-10-29 22:42:03,661 - __main__ - INFO - Preview System: [READY]
+2025-10-29 22:42:03,661 - __main__ - INFO - Background Processing: [READY]
+2025-10-29 22:42:03,661 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:42:03,661 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:42:04,944 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.81.220.26:5000
+2025-10-29 22:42:04,944 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 22:42:04,952 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 22:42:08,022 - __main__ - INFO - MongoDB connected successfully
+2025-10-29 22:42:09,369 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-29 22:42:09,370 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-29 22:42:09,371 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-29 22:42:09,371 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-29 22:42:09,373 - src.search_engine - INFO - Text search index created successfully
+2025-10-29 22:42:09,373 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-29 22:42:09,411 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-29 22:42:09,411 - src.search_engine - INFO - Search indexes setup completed
+2025-10-29 22:42:09,412 - __main__ - INFO - Search engine initialized successfully
+2025-10-29 22:42:09,412 - src.document_preview - INFO - PDF preview generation is available
+2025-10-29 22:42:09,420 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-29 22:42:09,421 - __main__ - INFO - Model loaded: True
+2025-10-29 22:42:09,421 - __main__ - INFO - Database connected: True
+2025-10-29 22:42:09,421 - __main__ - INFO - Search Engine: [READY]
+2025-10-29 22:42:09,421 - __main__ - INFO - Export System: [READY]
+2025-10-29 22:42:09,421 - __main__ - INFO - Preview System: [READY]
+2025-10-29 22:42:09,421 - __main__ - INFO - Background Processing: [READY]
+2025-10-29 22:42:09,422 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-29 22:42:09,422 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-29 22:42:09,426 - werkzeug - WARNING -  * Debugger is active!
+2025-10-29 22:42:09,431 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-29 22:42:43,798 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:42:43] "GET / HTTP/1.1" 200 -
+2025-10-29 22:42:43,864 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:42:43] "GET /api/health HTTP/1.1" 200 -
+2025-10-29 22:42:44,056 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:42:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-29 22:42:46,354 - werkzeug - INFO - 127.0.0.1 - - [29/Oct/2025 22:42:46] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 12:44:25,135 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 12:44:27,156 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 12:44:27,158 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 12:44:27,158 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 12:44:27,160 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 12:44:27,163 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 12:44:27,164 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 12:44:27,196 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 12:44:27,196 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 12:44:27,197 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 12:44:27,198 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 12:44:27,205 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 12:44:27,205 - __main__ - INFO - Model loaded: True
+2025-10-30 12:44:27,205 - __main__ - INFO - Database connected: True
+2025-10-30 12:44:27,206 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 12:44:27,206 - __main__ - INFO - Export System: [READY]
+2025-10-30 12:44:27,206 - __main__ - INFO - Preview System: [READY]
+2025-10-30 12:44:27,206 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 12:44:27,207 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 12:44:27,207 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 12:44:28,556 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.118.139.26:5000
+2025-10-30 12:44:28,557 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-30 12:44:28,576 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 12:44:33,376 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 12:44:35,624 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 12:44:35,624 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 12:44:35,625 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 12:44:35,626 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 12:44:35,628 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 12:44:35,629 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 12:44:35,907 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 12:44:35,907 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 12:44:35,907 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 12:44:35,908 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 12:44:35,917 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 12:44:35,918 - __main__ - INFO - Model loaded: True
+2025-10-30 12:44:35,918 - __main__ - INFO - Database connected: True
+2025-10-30 12:44:35,918 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 12:44:35,918 - __main__ - INFO - Export System: [READY]
+2025-10-30 12:44:35,919 - __main__ - INFO - Preview System: [READY]
+2025-10-30 12:44:35,920 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 12:44:35,920 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 12:44:35,920 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 12:44:35,924 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 12:44:35,927 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 12:46:01,786 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pytesseract\\__init__.py', reloading
+2025-10-30 12:46:01,788 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py', reloading
+2025-10-30 12:46:01,793 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Image.py', reloading
+2025-10-30 12:46:01,952 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pytesseract\\pytesseract.py', reloading
+2025-10-30 12:46:01,968 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\version.py', reloading
+2025-10-30 12:46:01,983 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImagePalette.py', reloading
+2025-10-30 12:46:02,037 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_util.py', reloading
+2025-10-30 12:46:02,100 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMode.py', reloading
+2025-10-30 12:46:02,159 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PyAccess.py', reloading
+2025-10-30 12:46:02,198 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageColor.py', reloading
+2025-10-30 12:46:03,765 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 12:46:08,752 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 12:46:10,268 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 12:46:10,269 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 12:46:10,269 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 12:46:10,271 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 12:46:10,272 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 12:46:10,272 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 12:46:10,310 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 12:46:10,311 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 12:46:10,311 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 12:46:10,312 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 12:46:10,320 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 12:46:10,320 - __main__ - INFO - Model loaded: True
+2025-10-30 12:46:10,320 - __main__ - INFO - Database connected: True
+2025-10-30 12:46:10,320 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 12:46:10,320 - __main__ - INFO - Export System: [READY]
+2025-10-30 12:46:10,320 - __main__ - INFO - Preview System: [READY]
+2025-10-30 12:46:10,322 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 12:46:10,322 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 12:46:10,322 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 12:46:10,326 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 12:46:10,329 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 12:47:04,540 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:47:04] "GET / HTTP/1.1" 200 -
+2025-10-30 12:47:04,579 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:47:04] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 12:47:04,806 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:47:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-30 12:48:52,905 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:48:52] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 12:48:56,388 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:48:56] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 12:50:49,127 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:50:49] "POST /api/auth/register HTTP/1.1" 200 -
+2025-10-30 12:51:29,283 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:51:29] "POST /api/auth/login HTTP/1.1" 200 -
+2025-10-30 12:52:41,806 - __main__ - INFO - Processing document: receipt_10.pdf, User: 690311d12435bf36070b9fb6
+2025-10-30 12:52:48,888 - src.document_preview - INFO - ✓ PDF preview generated with pdf2image: 44473ec8-4ef3-430f-b7a6-77cc85344726
+2025-10-30 12:52:48,896 - __main__ - INFO - Document saved to database for user 690311d12435bf36070b9fb6: receipt_10.pdf (DB ID: 690312482435bf36070b9fb9)
+2025-10-30 12:52:48,899 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:52:48] "POST /api/documents/parse HTTP/1.1" 200 -
+2025-10-30 12:52:59,916 - __main__ - INFO - Processing document: receipt_10.pdf, User: 690311d12435bf36070b9fb6
+2025-10-30 12:53:01,119 - src.document_preview - INFO - ✓ PDF preview generated with pdf2image: f9b0d684-5da1-4c99-8921-926a90d89815
+2025-10-30 12:53:01,126 - __main__ - INFO - Document saved to database for user 690311d12435bf36070b9fb6: receipt_10.pdf (DB ID: 690312552435bf36070b9fbb)
+2025-10-30 12:53:01,130 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:01] "POST /api/documents/parse HTTP/1.1" 200 -
+2025-10-30 12:53:10,375 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:10] "GET /api/documents/search/facets HTTP/1.1" 200 -
+2025-10-30 12:53:29,813 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:29] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-30 12:53:48,849 - src.export_manager - INFO - Exporting 1 documents to Excel for user 690311d12435bf36070b9fb6
+2025-10-30 12:53:51,023 - __main__ - INFO - Export created: export_20251030_125351.xlsx with 1 documents
+2025-10-30 12:53:51,025 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:51] "POST /api/documents/export HTTP/1.1" 200 -
+2025-10-30 12:53:55,363 - root - ERROR - Error getting task status undefined: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-10-30 12:53:55,368 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:55] "GET /api/tasks/undefined HTTP/1.1" 200 -
+2025-10-30 12:53:56,278 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:56] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-30 12:53:57,433 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:57] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-30 12:53:59,658 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:53:59] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-30 12:54:00,323 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:54:00] "GET / HTTP/1.1" 200 -
+2025-10-30 12:54:00,638 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:54:00] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-10-30 12:54:00,658 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:54:00] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 12:54:02,297 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:54:02] "GET /api/documents/search/facets HTTP/1.1" 200 -
+2025-10-30 12:54:03,230 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 12:54:03] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-30 13:01:11,228 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 13:01:12,587 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 13:01:12,588 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 13:01:12,588 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 13:01:12,589 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 13:01:12,590 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 13:01:12,591 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 13:01:12,628 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 13:01:12,628 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 13:01:12,629 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 13:01:12,629 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 13:01:12,635 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 13:01:12,636 - __main__ - INFO - Model loaded: True
+2025-10-30 13:01:12,636 - __main__ - INFO - Database connected: True
+2025-10-30 13:01:12,636 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 13:01:12,637 - __main__ - INFO - Export System: [READY]
+2025-10-30 13:01:12,639 - __main__ - INFO - Preview System: [READY]
+2025-10-30 13:01:12,639 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 13:01:12,639 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 13:01:12,640 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 13:01:13,965 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.118.139.26:5000
+2025-10-30 13:01:13,967 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-30 13:01:13,981 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 13:01:17,045 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 13:01:18,479 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 13:01:18,480 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 13:01:18,480 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 13:01:18,481 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 13:01:18,484 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 13:01:18,484 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 13:01:18,510 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 13:01:18,511 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 13:01:18,517 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 13:01:18,519 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 13:01:18,529 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 13:01:18,530 - __main__ - INFO - Model loaded: True
+2025-10-30 13:01:18,530 - __main__ - INFO - Database connected: True
+2025-10-30 13:01:18,531 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 13:01:18,531 - __main__ - INFO - Export System: [READY]
+2025-10-30 13:01:18,531 - __main__ - INFO - Preview System: [READY]
+2025-10-30 13:01:18,532 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 13:01:18,532 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 13:01:18,532 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 13:01:18,540 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 13:01:18,544 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 13:01:36,277 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:01:36] "GET / HTTP/1.1" 200 -
+2025-10-30 13:01:36,372 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:01:36] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-10-30 13:01:36,540 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:01:36] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 13:04:02,690 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:04:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-30 13:04:05,974 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:04:05] "GET / HTTP/1.1" 200 -
+2025-10-30 13:04:06,616 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:04:06] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 13:04:57,358 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:04:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-30 13:04:58,422 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:04:58] "GET / HTTP/1.1" 200 -
+2025-10-30 13:04:58,775 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:04:58] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 13:05:02,479 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:05:02] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 13:05:44,615 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:05:44] "POST /api/auth/register HTTP/1.1" 200 -
+2025-10-30 13:06:06,818 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:06:06] "POST /api/auth/login HTTP/1.1" 200 -
+2025-10-30 13:06:34,441 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:06:34] "GET / HTTP/1.1" 200 -
+2025-10-30 13:06:34,776 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:06:34] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 13:06:35,009 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:06:35] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-10-30 13:08:47,767 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:08:47] code 400, message Bad request version ('\x00\x04\x03\x00\x01\x02\x00')
+2025-10-30 13:08:47,768 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:08:47] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03©Yìê%3\x0eHË¸[\x95¦\x16IÁÇ¯Äm\x08@\x03Ò4}0½Ê\x00\x93\x0c ¨Iö\x1eUWµ\x16\x13)\x9e¡º0¼A\x8e\x07\x1dË¨¯\x07\x8e-\x14pcÊSÕZ\x00\x16\x13\x02\x13\x01À,À+À0À/À$À#À(À'\x00ÿ\x01\x00\x01#\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x04\x03\x00\x01\x02\x00[0m" 400 -
+2025-10-30 13:08:50,250 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:08:50] code 400, message Bad request version ('\x00\x04\x03\x00\x01\x02\x00')
+2025-10-30 13:08:50,251 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:08:50] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03ì\x1a1ÑrOR³\x0b\x98x&ììð\x12)\x82\x93\x93´®ýÃp\x03\x844\x04áã\x7f 7(Ô­Ý\x80W«Hº\x7fæÎûµ\x1ep&É@ u}Ô\x8dh\x8a\x02ö\x8d*-\x00\x16\x13\x02\x13\x01À,À+À0À/À$À#À(À'\x00ÿ\x01\x00\x01#\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x04\x03\x00\x01\x02\x00[0m" 400 -
+2025-10-30 13:09:21,257 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:21] code 400, message Bad request version ('\x00\x04\x03\x00\x01\x02\x00')
+2025-10-30 13:09:21,257 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:21] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03\x94A¨\x19\x1a\x07\x93f\x82ù¬\x00h\x85àd\x92\x9e\x1d×¡\x96Kqë\x01³ì4àT, Y÷x22ÒÄÂ8\x19Í\x1c«S\x05ísf1T}ÝH·\x0cw\x05´þÛä¼\x00\x16\x13\x02\x13\x01À,À+À0À/À$À#À(À'\x00ÿ\x01\x00\x01#\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x04\x03\x00\x01\x02\x00[0m" 400 -
+2025-10-30 13:09:25,276 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:25] code 400, message Bad request syntax ('\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03\x9eC+ù\x97ãq»\x04Ý7÷bVF\x12MP\x05-Ê')
+2025-10-30 13:09:25,277 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:25] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03\x9eC+ù\x97ãq»\x04Ý7÷bVF\x12MP\x05-Ê[0m" 400 -
+2025-10-30 13:09:26,925 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:26] code 400, message Bad request version ('\x00\x04\x03\x00\x01\x02\x00')
+2025-10-30 13:09:26,926 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:26] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03É¦¨+¡¡õm§Ièøâ-"\x0cYsãp^\x19ýl ®zM\x91²¹ù \x08#Äé*Ì\x1b~\x08±ºy\x9c\x88Sñ\x15bøôç³ôF\x072Å\x13%IGY\x00\x16\x13\x02\x13\x01À,À+À0À/À$À#À(À'\x00ÿ\x01\x00\x01#\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x04\x03\x00\x01\x02\x00[0m" 400 -
+2025-10-30 13:09:35,693 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:35] code 400, message Bad request syntax ('\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03Ö°èß^ÿq4¨\x83')
+2025-10-30 13:09:35,694 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:35] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03Ö°èß^ÿq4¨\x83[0m" 400 -
+2025-10-30 13:09:36,295 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:36] code 400, message Bad request version ('\x00\x04\x03\x00\x01\x02\x00')
+2025-10-30 13:09:36,295 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:36] "[31m[1m\x16\x03\x01\x02V\x01\x00\x02R\x03\x03\x80n\x85\x99½\x17´Dµ_g\x9e÷½ð=\x1cÚ\x9et]yfCö¾Æ,5âá^ \x95\x8chYÊÆE\x07Cò)!.¦¿\x98BO«â&\x1bºmÚ42\x84kI\x0dº\x00\x16\x13\x02\x13\x01À,À+À0À/À$À#À(À'\x00ÿ\x01\x00\x01ó\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x04\x03\x00\x01\x02\x00[0m" 400 -
+2025-10-30 13:09:36,481 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:36] code 400, message Bad request version ('üÚ\x9aqªèý\x01ü*\x90\x97óØ°>eÿ)')
+2025-10-30 13:09:36,481 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:36] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03¾j!vTð\x0dÀó::bñËXÆr8Ï\x19üúBG<¤\x8f,\x13pþp t#0°ª\x1füÚ\x9aqªèý\x01ü*\x90\x97óØ°>eÿ)[0m" 400 -
+2025-10-30 13:09:37,363 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:37] code 400, message Bad request version ('\x00\x04\x03\x00\x01\x02\x00')
+2025-10-30 13:09:37,364 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:37] "[31m[1m\x16\x03\x01\x01'\x01\x00\x01#\x03\x03©ÚF½\x88s©éâu>Ðè\x1bc_\x07È+ùµÑ»¿\x06ôä_\x1bö'j {L\x00\x00Ó\x87'Q\x99p)ii¹\x04\x9dF2{M¥ÍcÈ©Þ\x02³\x07\x93$®\x00\x16\x13\x02\x13\x01À,À+À0À/À$À#À(À'\x00ÿ\x01\x00\x00Ä\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x04\x03\x00\x01\x02\x00[0m" 400 -
+2025-10-30 13:09:40,894 - werkzeug - ERROR - 127.0.0.1 - - [30/Oct/2025 13:09:40] code 400, message Bad request version ('\x00\x04\x03\x00\x01\x02\x00')
+2025-10-30 13:09:40,895 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:09:40] "[31m[1m\x16\x03\x01\x01\x86\x01\x00\x01\x82\x03\x03\x9cª\x01Dö"l\x01À\x87ÙÍ\x80oùÝQÿó\x9dE4\x04jÚ\x8cn\x10661# ÛNDZPÇv\x9cÆ\x9e\x8c©wW»Úòz©\x1f®«\x1b~VsÛ\x17\x96÷Qð\x00\x16\x13\x02\x13\x01À,À+À0À/À$À#À(À'\x00ÿ\x01\x00\x01#\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x04\x03\x00\x01\x02\x00[0m" 400 -
+2025-10-30 13:11:07,399 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 13:11:08,791 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 13:11:08,792 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 13:11:08,792 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 13:11:08,793 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 13:11:08,795 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 13:11:08,795 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 13:11:08,827 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 13:11:08,827 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 13:11:08,828 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 13:11:08,828 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 13:11:08,835 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 13:11:08,835 - __main__ - INFO - Model loaded: True
+2025-10-30 13:11:08,835 - __main__ - INFO - Database connected: True
+2025-10-30 13:11:08,835 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 13:11:08,836 - __main__ - INFO - Export System: [READY]
+2025-10-30 13:11:08,836 - __main__ - INFO - Preview System: [READY]
+2025-10-30 13:11:08,837 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 13:11:08,837 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 13:11:08,837 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 13:11:10,153 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.118.139.26:5000
+2025-10-30 13:11:10,153 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-30 13:11:10,164 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 13:11:14,016 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 13:11:15,577 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 13:11:15,578 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 13:11:15,578 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 13:11:15,580 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 13:11:15,582 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 13:11:15,582 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 13:11:15,615 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 13:11:15,617 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 13:11:15,617 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 13:11:15,618 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 13:11:15,625 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 13:11:15,627 - __main__ - INFO - Model loaded: True
+2025-10-30 13:11:15,627 - __main__ - INFO - Database connected: True
+2025-10-30 13:11:15,628 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 13:11:15,628 - __main__ - INFO - Export System: [READY]
+2025-10-30 13:11:15,628 - __main__ - INFO - Preview System: [READY]
+2025-10-30 13:11:15,628 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 13:11:15,628 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 13:11:15,628 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 13:11:15,633 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 13:11:15,638 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 13:11:30,304 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:11:30] "GET / HTTP/1.1" 200 -
+2025-10-30 13:11:30,938 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:11:30] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 13:11:30,960 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:11:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-30 13:12:06,055 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:12:06] "GET / HTTP/1.1" 200 -
+2025-10-30 13:12:06,948 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 13:12:06] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 18:16:12,142 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:16:15,524 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:16:15,525 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:16:15,525 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:16:15,528 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:16:15,544 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:16:15,545 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:16:15,599 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:16:15,600 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:16:15,600 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:16:15,602 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:16:15,620 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:16:15,622 - __main__ - INFO - Model loaded: True
+2025-10-30 18:16:15,622 - __main__ - INFO - Database connected: True
+2025-10-30 18:16:15,623 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:16:15,623 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:16:15,623 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:16:15,623 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:16:15,624 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:16:15,624 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:16:17,068 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.118.139.26:5000
+2025-10-30 18:16:17,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-30 18:16:17,093 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 18:16:24,010 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:16:26,950 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:16:26,950 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:16:26,951 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:16:26,952 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:16:26,955 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:16:26,957 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:16:26,992 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:16:26,992 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:16:26,993 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:16:26,995 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:16:27,008 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:16:27,009 - __main__ - INFO - Model loaded: True
+2025-10-30 18:16:27,010 - __main__ - INFO - Database connected: True
+2025-10-30 18:16:27,010 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:16:27,012 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:16:27,013 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:16:27,013 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:16:27,015 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:16:27,016 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:16:27,025 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 18:16:27,032 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 18:20:57,693 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py', reloading
+2025-10-30 18:21:00,799 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 18:21:16,218 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:21:20,448 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:21:20,450 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:21:20,450 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:21:20,453 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:21:20,456 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:21:20,457 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:21:20,489 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:21:20,490 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:21:20,491 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:21:20,491 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:21:20,503 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:21:20,503 - __main__ - INFO - Model loaded: True
+2025-10-30 18:21:20,503 - __main__ - INFO - Database connected: True
+2025-10-30 18:21:20,503 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:21:20,504 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:21:20,504 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:21:20,504 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:21:20,504 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:21:20,504 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:21:20,512 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 18:21:20,519 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 18:22:13,663 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+2025-10-30 18:22:15,783 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 18:22:28,736 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:22:35,693 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:22:35,694 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:22:35,696 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:22:35,699 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:22:35,702 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:22:35,705 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:22:35,750 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:22:35,752 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:22:35,752 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:22:35,753 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:22:35,795 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:22:35,796 - __main__ - INFO - Model loaded: True
+2025-10-30 18:22:35,797 - __main__ - INFO - Database connected: True
+2025-10-30 18:22:35,797 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:22:35,797 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:22:35,798 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:22:35,800 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:22:35,800 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:22:35,801 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:22:35,817 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 18:22:35,833 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 18:26:00,751 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\os.py', reloading
+2025-10-30 18:26:02,359 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 18:26:07,234 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:26:08,704 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:26:08,705 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:26:08,705 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:26:08,706 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:26:08,708 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:26:08,708 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:26:08,753 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:26:08,754 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:26:08,754 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:26:08,756 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:26:08,776 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:26:08,777 - __main__ - INFO - Model loaded: True
+2025-10-30 18:26:08,778 - __main__ - INFO - Database connected: True
+2025-10-30 18:26:08,779 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:26:08,779 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:26:08,780 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:26:08,781 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:26:08,781 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:26:08,782 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:26:08,793 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 18:26:08,802 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 18:26:40,566 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\celery\\signals.py', reloading
+2025-10-30 18:26:42,305 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 18:26:51,273 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:26:53,382 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:26:53,383 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:26:53,384 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:26:53,386 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:26:53,388 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:26:53,391 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:26:53,422 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:26:53,422 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:26:53,422 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:26:53,423 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:26:53,433 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:26:53,434 - __main__ - INFO - Model loaded: True
+2025-10-30 18:26:53,434 - __main__ - INFO - Database connected: True
+2025-10-30 18:26:53,434 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:26:53,434 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:26:53,434 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:26:53,434 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:26:53,435 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:26:53,435 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:26:53,441 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 18:26:53,445 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 18:27:14,831 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageDraw.py', reloading
+2025-10-30 18:27:14,847 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFont.py', reloading
+2025-10-30 18:27:14,877 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pdf2image\\pdf2image.py', reloading
+2025-10-30 18:27:14,888 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pdf2image\\generators.py', reloading
+2025-10-30 18:27:14,916 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fitz\\fitz.py', reloading
+2025-10-30 18:27:16,767 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 18:27:27,812 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:27:32,215 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:27:32,217 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:27:32,218 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:27:32,219 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:27:32,222 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:27:32,225 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:27:32,271 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:27:32,271 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:27:32,272 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:27:32,274 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:27:32,299 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:27:32,299 - __main__ - INFO - Model loaded: True
+2025-10-30 18:27:32,300 - __main__ - INFO - Database connected: True
+2025-10-30 18:27:32,302 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:27:32,303 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:27:32,304 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:27:32,304 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:27:32,305 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:27:32,305 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:27:32,321 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 18:27:32,340 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 18:27:45,581 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_limiter\\util.py', reloading
+2025-10-30 18:27:45,586 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_limiter\\typing.py', reloading
+2025-10-30 18:27:47,730 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 18:27:59,582 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 18:28:04,726 - src.document_parser - INFO - Model loaded from models/document_classifier.joblib
+2025-10-30 18:28:04,728 - __main__ - INFO - Model loaded successfully from models/document_classifier.joblib
+2025-10-30 18:28:04,731 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 18:28:04,737 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 18:28:04,747 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 18:28:04,756 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 18:28:04,810 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 18:28:04,811 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 18:28:04,812 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 18:28:04,813 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 18:28:04,844 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 18:28:04,846 - __main__ - INFO - Model loaded: True
+2025-10-30 18:28:04,847 - __main__ - INFO - Database connected: True
+2025-10-30 18:28:04,849 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 18:28:04,850 - __main__ - INFO - Export System: [READY]
+2025-10-30 18:28:04,852 - __main__ - INFO - Preview System: [READY]
+2025-10-30 18:28:04,853 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 18:28:04,854 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 18:28:04,855 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 18:28:04,877 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 18:28:04,897 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 18:28:32,678 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 18:28:32] "GET / HTTP/1.1" 200 -
+2025-10-30 18:28:33,070 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 18:28:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-30 18:28:33,101 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 18:28:33] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 20:04:26,099 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:04:26,531 - src.document_parser - WARNING - Model file models/document_classifier_modified_one_night_before.joblib does not exist
+2025-10-30 20:04:26,532 - __main__ - WARNING - Model loaded but not trained. Using rule-based parsing only.
+2025-10-30 20:04:26,533 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:04:26,535 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:04:26,536 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:04:26,583 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:04:26,584 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:04:26,584 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:04:26,585 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:04:26,592 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:04:26,592 - __main__ - INFO - Model loaded: False
+2025-10-30 20:04:26,593 - __main__ - INFO - Database connected: True
+2025-10-30 20:04:26,593 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:04:26,593 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:04:26,593 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:04:26,594 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:04:26,594 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:04:26,594 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:04:27,929 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.118.139.26:5000
+2025-10-30 20:04:27,930 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-30 20:04:27,955 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:04:31,496 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:04:31,837 - src.document_parser - WARNING - Model file models/document_classifier_modified_one_night_before.joblib does not exist
+2025-10-30 20:04:31,838 - __main__ - WARNING - Model loaded but not trained. Using rule-based parsing only.
+2025-10-30 20:04:31,839 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:04:31,843 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:04:31,844 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:04:31,872 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:04:31,873 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:04:31,873 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:04:31,874 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:04:31,880 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:04:31,880 - __main__ - INFO - Model loaded: False
+2025-10-30 20:04:31,881 - __main__ - INFO - Database connected: True
+2025-10-30 20:04:31,881 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:04:31,881 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:04:31,881 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:04:31,881 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:04:31,881 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:04:31,881 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:04:31,884 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:04:31,888 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:04:42,191 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 20:04:42] "GET / HTTP/1.1" 200 -
+2025-10-30 20:04:42,282 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 20:04:42] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-10-30 20:04:42,441 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 20:04:42] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 20:04:42,702 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 20:04:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-30 20:05:35,151 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\api_2.0.py', reloading
+2025-10-30 20:05:36,427 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:05:40,307 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:05:41,658 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:05:41,658 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:05:41,658 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:05:41,659 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:05:41,661 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:05:41,661 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:05:41,684 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:05:41,685 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:05:41,685 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:05:41,687 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:05:41,695 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:05:41,695 - __main__ - INFO - Model loaded: True
+2025-10-30 20:05:41,695 - __main__ - INFO - Database connected: True
+2025-10-30 20:05:41,695 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:05:41,696 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:05:41,696 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:05:41,696 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:05:41,696 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:05:41,696 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:05:41,700 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:05:41,704 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:06:00,127 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\config.py', reloading
+2025-10-30 20:06:00,128 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\config.py', reloading
+2025-10-30 20:06:00,128 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\config.py', reloading
+2025-10-30 20:06:00,351 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\config.py', reloading
+2025-10-30 20:06:00,352 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\config.py', reloading
+2025-10-30 20:06:00,352 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\config.py', reloading
+2025-10-30 20:06:02,166 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:06:05,789 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:06:07,147 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:06:07,148 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:06:07,148 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:06:07,149 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:06:07,150 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:06:07,151 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:06:07,194 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:06:07,194 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:06:07,195 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:06:07,195 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:06:07,204 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:06:07,204 - __main__ - INFO - Model loaded: True
+2025-10-30 20:06:07,204 - __main__ - INFO - Database connected: True
+2025-10-30 20:06:07,204 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:06:07,204 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:06:07,204 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:06:07,204 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:06:07,205 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:06:07,205 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:06:07,209 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:06:07,211 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:06:21,888 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:06:23,129 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:06:23,130 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:06:23,130 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:06:23,131 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:06:23,133 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:06:23,133 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:06:23,170 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:06:23,170 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:06:23,170 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:06:23,171 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:06:23,179 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:06:23,179 - __main__ - INFO - Model loaded: True
+2025-10-30 20:06:23,180 - __main__ - INFO - Database connected: True
+2025-10-30 20:06:23,180 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:06:23,180 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:06:23,180 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:06:23,180 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:06:23,180 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:06:23,181 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:06:24,458 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.118.139.26:5000
+2025-10-30 20:06:24,459 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-30 20:06:24,473 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:06:27,975 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:06:29,396 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:06:29,397 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:06:29,397 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:06:29,398 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:06:29,399 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:06:29,400 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:06:29,425 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:06:29,426 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:06:29,426 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:06:29,426 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:06:29,432 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:06:29,433 - __main__ - INFO - Model loaded: True
+2025-10-30 20:06:29,433 - __main__ - INFO - Database connected: True
+2025-10-30 20:06:29,434 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:06:29,434 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:06:29,434 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:06:29,434 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:06:29,434 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:06:29,434 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:06:29,438 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:06:29,441 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:06:30,554 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 20:06:30] "GET / HTTP/1.1" 200 -
+2025-10-30 20:06:30,633 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 20:06:30] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-10-30 20:06:30,801 - werkzeug - INFO - 127.0.0.1 - - [30/Oct/2025 20:06:30] "GET /api/health HTTP/1.1" 200 -
+2025-10-30 20:07:00,335 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:07:00,336 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:07:00,568 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:07:00,570 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:07:01,891 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:07:05,340 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:07:06,703 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:07:06,703 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:07:06,703 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:07:06,704 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:07:06,706 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:07:06,706 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:07:06,741 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:07:06,742 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:07:06,742 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:07:06,742 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:07:06,748 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:07:06,748 - __main__ - INFO - Model loaded: True
+2025-10-30 20:07:06,748 - __main__ - INFO - Database connected: True
+2025-10-30 20:07:06,749 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:07:06,749 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:07:06,749 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:07:06,749 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:07:06,749 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:07:06,750 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:07:06,754 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:07:06,757 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:08:16,773 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:08:16,774 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:08:17,011 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:08:17,012 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:08:17,013 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\test_model_accuracy.py', reloading
+2025-10-30 20:08:18,300 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:08:22,102 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:08:23,568 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:08:23,568 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:08:23,569 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:08:23,570 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:08:23,572 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:08:23,572 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:08:23,609 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:08:23,610 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:08:23,612 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:08:23,614 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:08:23,632 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:08:23,633 - __main__ - INFO - Model loaded: True
+2025-10-30 20:08:23,633 - __main__ - INFO - Database connected: True
+2025-10-30 20:08:23,634 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:08:23,634 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:08:23,635 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:08:23,635 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:08:23,635 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:08:23,636 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:08:23,643 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:08:23,651 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:08:33,823 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\document_parser.py', reloading
+2025-10-30 20:08:33,826 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\document_parser.py', reloading
+2025-10-30 20:08:34,328 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\document_parser.py', reloading
+2025-10-30 20:08:34,332 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\document_parser.py', reloading
+2025-10-30 20:08:34,564 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\document_parser.py', reloading
+2025-10-30 20:08:34,565 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\document_parser.py', reloading
+2025-10-30 20:08:34,566 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\src\\document_parser.py', reloading
+2025-10-30 20:08:35,954 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:08:39,613 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:08:40,972 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:08:40,974 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:08:40,974 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:08:40,975 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:08:40,976 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:08:40,977 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:08:41,018 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:08:41,019 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:08:41,019 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:08:41,020 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:08:41,025 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:08:41,026 - __main__ - INFO - Model loaded: True
+2025-10-30 20:08:41,026 - __main__ - INFO - Database connected: True
+2025-10-30 20:08:41,026 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:08:41,026 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:08:41,026 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:08:41,026 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:08:41,026 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:08:41,027 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:08:41,030 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:08:41,033 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:08:43,439 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\train_with_real_data.py', reloading
+2025-10-30 20:08:43,440 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\train_with_real_data.py', reloading
+2025-10-30 20:08:43,441 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\train_with_real_data.py', reloading
+2025-10-30 20:08:43,803 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\train_with_real_data.py', reloading
+2025-10-30 20:08:44,009 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\train_with_real_data.py', reloading
+2025-10-30 20:08:44,011 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\train_with_real_data.py', reloading
+2025-10-30 20:08:44,011 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\train_with_real_data.py', reloading
+2025-10-30 20:08:44,980 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:08:48,470 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:08:49,738 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:08:49,739 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:08:49,739 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:08:49,740 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:08:49,742 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:08:49,743 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:08:49,769 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:08:49,769 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:08:49,769 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:08:49,770 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:08:49,777 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:08:49,777 - __main__ - INFO - Model loaded: True
+2025-10-30 20:08:49,777 - __main__ - INFO - Database connected: True
+2025-10-30 20:08:49,778 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:08:49,778 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:08:49,778 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:08:49,778 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:08:49,778 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:08:49,778 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:08:49,781 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:08:49,785 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:08:56,365 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$IW5EEFN.py', reloading
+2025-10-30 20:08:56,367 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$IW5EEFN.py', reloading
+2025-10-30 20:08:56,368 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_contract_csv_to_training.py', reloading
+2025-10-30 20:08:56,369 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$RW5EEFN.py', reloading
+2025-10-30 20:08:56,371 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$RW5EEFN.py', reloading
+2025-10-30 20:08:56,391 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$I3K9WPD.py', reloading
+2025-10-30 20:08:57,998 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:09:01,598 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:09:02,981 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:09:02,981 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:09:02,982 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:09:02,983 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:09:02,984 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:09:02,986 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:09:03,029 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:09:03,030 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:09:03,030 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:09:03,031 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:09:03,039 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:09:03,040 - __main__ - INFO - Model loaded: True
+2025-10-30 20:09:03,040 - __main__ - INFO - Database connected: True
+2025-10-30 20:09:03,040 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:09:03,041 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:09:03,041 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:09:03,042 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:09:03,042 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:09:03,043 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:09:03,047 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:09:03,052 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:09:10,805 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$IOF62LT.py', reloading
+2025-10-30 20:09:10,806 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$IOF62LT.py', reloading
+2025-10-30 20:09:10,806 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training_old_.py', reloading
+2025-10-30 20:09:10,807 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$ROF62LT.py', reloading
+2025-10-30 20:09:10,807 - werkzeug - INFO -  * Detected change in 'D:\\$RECYCLE.BIN\\S-1-5-21-302543691-2197548985-1238483389-1003\\$ROF62LT.py', reloading
+2025-10-30 20:09:12,478 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:09:16,392 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:09:17,652 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:09:17,653 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:09:17,653 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:09:17,653 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:09:17,656 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:09:17,656 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:09:17,681 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:09:17,681 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:09:17,682 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:09:17,682 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:09:17,689 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:09:17,690 - __main__ - INFO - Model loaded: True
+2025-10-30 20:09:17,690 - __main__ - INFO - Database connected: True
+2025-10-30 20:09:17,690 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:09:17,690 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:09:17,690 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:09:17,690 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:09:17,690 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:09:17,690 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:09:17,694 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:09:17,697 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:09:17,780 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:17,780 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:17,781 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:17,971 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:17,972 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:17,973 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,164 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,165 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,165 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,363 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,364 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,527 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,529 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,530 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,704 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:18,705 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:09:19,692 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:09:23,079 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:09:24,399 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:09:24,400 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:09:24,400 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:09:24,401 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:09:24,402 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:09:24,403 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:09:24,438 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:09:24,439 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:09:24,439 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:09:24,440 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:09:24,447 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:09:24,448 - __main__ - INFO - Model loaded: True
+2025-10-30 20:09:24,448 - __main__ - INFO - Database connected: True
+2025-10-30 20:09:24,448 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:09:24,448 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:09:24,448 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:09:24,449 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:09:24,449 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:09:24,449 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:09:24,452 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:09:24,456 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-30 20:10:07,829 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:10:07,830 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:10:07,974 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:10:07,976 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:10:08,114 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:10:08,114 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:10:08,116 - werkzeug - INFO -  * Detected change in 'D:\\TE MINI LLM with contracts analysis\\scripts\\convert_invoice_csv_to_training.py', reloading
+2025-10-30 20:10:09,919 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-30 20:10:13,617 - __main__ - INFO - MongoDB connected successfully
+2025-10-30 20:10:14,862 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:10:14,863 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-30 20:10:14,863 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-30 20:10:14,865 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-30 20:10:14,866 - src.search_engine - INFO - Text search index created successfully
+2025-10-30 20:10:14,867 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-30 20:10:14,893 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-30 20:10:14,894 - src.search_engine - INFO - Search indexes setup completed
+2025-10-30 20:10:14,894 - __main__ - INFO - Search engine initialized successfully
+2025-10-30 20:10:14,894 - src.document_preview - INFO - PDF preview generation is available
+2025-10-30 20:10:14,900 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-30 20:10:14,901 - __main__ - INFO - Model loaded: True
+2025-10-30 20:10:14,901 - __main__ - INFO - Database connected: True
+2025-10-30 20:10:14,901 - __main__ - INFO - Search Engine: [READY]
+2025-10-30 20:10:14,902 - __main__ - INFO - Export System: [READY]
+2025-10-30 20:10:14,902 - __main__ - INFO - Preview System: [READY]
+2025-10-30 20:10:14,902 - __main__ - INFO - Background Processing: [READY]
+2025-10-30 20:10:14,902 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-30 20:10:14,902 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-30 20:10:14,905 - werkzeug - WARNING -  * Debugger is active!
+2025-10-30 20:10:14,908 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-31 11:03:46,823 - __main__ - INFO - MongoDB connected successfully
+2025-10-31 11:03:49,212 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-31 11:03:49,213 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-31 11:03:49,213 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-31 11:03:49,215 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-31 11:03:49,217 - src.search_engine - INFO - Text search index created successfully
+2025-10-31 11:03:49,218 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-31 11:03:49,256 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-31 11:03:49,257 - src.search_engine - INFO - Search indexes setup completed
+2025-10-31 11:03:49,257 - __main__ - INFO - Search engine initialized successfully
+2025-10-31 11:03:49,259 - src.document_preview - INFO - PDF preview generation is available
+2025-10-31 11:03:49,279 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-31 11:03:49,288 - __main__ - INFO - Model loaded: True
+2025-10-31 11:03:49,288 - __main__ - INFO - Database connected: True
+2025-10-31 11:03:49,289 - __main__ - INFO - Search Engine: [READY]
+2025-10-31 11:03:49,289 - __main__ - INFO - Export System: [READY]
+2025-10-31 11:03:49,290 - __main__ - INFO - Preview System: [READY]
+2025-10-31 11:03:49,291 - __main__ - INFO - Background Processing: [READY]
+2025-10-31 11:03:49,291 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-31 11:03:49,291 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-31 11:03:50,608 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.72.26:5000
+2025-10-31 11:03:50,609 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-31 11:03:50,622 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-31 11:03:56,526 - __main__ - INFO - MongoDB connected successfully
+2025-10-31 11:03:58,799 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-31 11:03:58,800 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-31 11:03:58,800 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-31 11:03:58,802 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-31 11:03:58,804 - src.search_engine - INFO - Text search index created successfully
+2025-10-31 11:03:58,805 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-31 11:03:58,858 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-31 11:03:58,858 - src.search_engine - INFO - Search indexes setup completed
+2025-10-31 11:03:58,859 - __main__ - INFO - Search engine initialized successfully
+2025-10-31 11:03:58,861 - src.document_preview - INFO - PDF preview generation is available
+2025-10-31 11:03:58,888 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-31 11:03:58,889 - __main__ - INFO - Model loaded: True
+2025-10-31 11:03:58,889 - __main__ - INFO - Database connected: True
+2025-10-31 11:03:58,890 - __main__ - INFO - Search Engine: [READY]
+2025-10-31 11:03:58,891 - __main__ - INFO - Export System: [READY]
+2025-10-31 11:03:58,891 - __main__ - INFO - Preview System: [READY]
+2025-10-31 11:03:58,892 - __main__ - INFO - Background Processing: [READY]
+2025-10-31 11:03:58,892 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-31 11:03:58,893 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-31 11:03:58,899 - werkzeug - WARNING -  * Debugger is active!
+2025-10-31 11:03:58,907 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-31 11:04:08,970 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:04:08] "GET / HTTP/1.1" 200 -
+2025-10-31 11:04:09,265 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:04:09] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-10-31 11:04:09,343 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:04:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-31 11:04:09,377 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:04:09] "GET /api/health HTTP/1.1" 200 -
+2025-10-31 11:06:22,286 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:06:22] "GET /api/health HTTP/1.1" 200 -
+2025-10-31 11:06:28,141 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:06:28] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-10-31 11:07:48,679 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:07:48] "POST /api/auth/register HTTP/1.1" 200 -
+2025-10-31 11:08:07,316 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:08:07] "POST /api/auth/login HTTP/1.1" 200 -
+2025-10-31 11:08:39,788 - __main__ - INFO - Processing document: Contract_11.pdf, User: 69044b2c4dac1c3d063f8b39
+2025-10-31 11:08:42,362 - src.document_preview - INFO - ✓ PDF preview generated with pdf2image: b124c1ac-7abc-4c5a-b908-3ee0ca4387ac
+2025-10-31 11:08:42,371 - __main__ - INFO - Document saved to database for user 69044b2c4dac1c3d063f8b39: Contract_11.pdf (DB ID: 69044b624dac1c3d063f8b3c)
+2025-10-31 11:08:42,374 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:08:42] "POST /api/documents/parse HTTP/1.1" 200 -
+2025-10-31 11:09:02,488 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:09:02] "GET /api/health HTTP/1.1" 200 -
+2025-10-31 11:09:03,625 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:09:03] "GET /api/health HTTP/1.1" 200 -
+2025-10-31 11:18:19,696 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py', reloading
+2025-10-31 11:18:19,700 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Swarup\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py', reloading
+2025-10-31 11:18:22,390 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-31 11:18:28,755 - __main__ - INFO - MongoDB connected successfully
+2025-10-31 11:18:31,613 - src.document_parser - INFO - Model loaded from models/document_classifier_modified_before_one_night.joblib
+2025-10-31 11:18:31,613 - __main__ - INFO - Model loaded successfully from models/document_classifier_modified_before_one_night.joblib
+2025-10-31 11:18:31,614 - __main__ - INFO - Model can predict: ['contract' 'invoice' 'receipt']
+2025-10-31 11:18:31,616 - src.search_engine - INFO - Dropping conflicting index: user_type_recency_index
+2025-10-31 11:18:31,629 - src.search_engine - INFO - Text search index created successfully
+2025-10-31 11:18:31,630 - src.search_engine - INFO - Index user_recency_index created successfully
+2025-10-31 11:18:31,666 - src.search_engine - INFO - Index user_type_recency_index created successfully
+2025-10-31 11:18:31,667 - src.search_engine - INFO - Search indexes setup completed
+2025-10-31 11:18:31,667 - __main__ - INFO - Search engine initialized successfully
+2025-10-31 11:18:31,668 - src.document_preview - INFO - PDF preview generation is available
+2025-10-31 11:18:31,677 - __main__ - INFO - Starting Enhanced Document Parser API Server
+2025-10-31 11:18:31,678 - __main__ - INFO - Model loaded: True
+2025-10-31 11:18:31,679 - __main__ - INFO - Database connected: True
+2025-10-31 11:18:31,680 - __main__ - INFO - Search Engine: [READY]
+2025-10-31 11:18:31,680 - __main__ - INFO - Export System: [READY]
+2025-10-31 11:18:31,680 - __main__ - INFO - Preview System: [READY]
+2025-10-31 11:18:31,681 - __main__ - INFO - Background Processing: [READY]
+2025-10-31 11:18:31,681 - __main__ - INFO - Web Interface: http://localhost:5000
+2025-10-31 11:18:31,681 - __main__ - INFO - API Health: http://localhost:5000/api/health
+2025-10-31 11:18:31,687 - werkzeug - WARNING -  * Debugger is active!
+2025-10-31 11:18:31,691 - werkzeug - INFO -  * Debugger PIN: 125-939-771
+2025-10-31 11:20:21,825 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:20:21] "POST /api/auth/login HTTP/1.1" 200 -
+2025-10-31 11:20:31,710 - __main__ - INFO - Processing document: invoice_10.pdf, User: 69044b2c4dac1c3d063f8b39
+2025-10-31 11:20:33,065 - src.document_preview - INFO - ✓ PDF preview generated with pdf2image: 44e6c2a4-ff36-4f5b-a52b-5f379dafaa57
+2025-10-31 11:20:33,073 - __main__ - INFO - Document saved to database for user 69044b2c4dac1c3d063f8b39: invoice_10.pdf (DB ID: 69044e29852ab50147ce9af6)
+2025-10-31 11:20:33,077 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:20:33] "POST /api/documents/parse HTTP/1.1" 200 -
+2025-10-31 11:21:08,730 - __main__ - INFO - Processing document: Contract_18.pdf, User: 69044b2c4dac1c3d063f8b39
+2025-10-31 11:21:13,579 - src.document_preview - INFO - ✓ PDF preview generated with pdf2image: 40979249-8ffe-45c3-8fe4-a19384c31b9c
+2025-10-31 11:21:13,589 - __main__ - INFO - Document saved to database for user 69044b2c4dac1c3d063f8b39: Contract_18.pdf (DB ID: 69044e51852ab50147ce9af8)
+2025-10-31 11:21:13,593 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:21:13] "POST /api/documents/parse HTTP/1.1" 200 -
+2025-10-31 11:21:27,276 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:21:27] "GET /api/documents/search/facets HTTP/1.1" 200 -
+2025-10-31 11:21:28,819 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:21:28] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-31 11:21:44,028 - src.export_manager - INFO - Exporting 1 documents to JSON for user 69044b2c4dac1c3d063f8b39
+2025-10-31 11:21:44,032 - __main__ - INFO - Export created: export_20251031_112144.json with 1 documents
+2025-10-31 11:21:44,035 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:21:44] "POST /api/documents/export HTTP/1.1" 200 -
+2025-10-31 11:21:48,883 - root - ERROR - Error getting task status undefined: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-10-31 11:21:48,885 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:21:48] "GET /api/tasks/undefined HTTP/1.1" 200 -
+2025-10-31 11:22:38,659 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:38] "GET /api/documents/search/facets HTTP/1.1" 200 -
+2025-10-31 11:22:39,401 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:39] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-31 11:22:42,608 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:42] "GET / HTTP/1.1" 200 -
+2025-10-31 11:22:42,693 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:42] "GET /api/auth/profile HTTP/1.1" 200 -
+2025-10-31 11:22:42,870 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:42] "GET /api/health HTTP/1.1" 200 -
+2025-10-31 11:22:44,973 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:44] "GET /api/documents/search/facets HTTP/1.1" 200 -
+2025-10-31 11:22:45,868 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:45] "POST /api/documents/search HTTP/1.1" 200 -
+2025-10-31 11:22:48,855 - src.export_manager - INFO - Exporting 1 documents to JSON for user 69044b2c4dac1c3d063f8b39
+2025-10-31 11:22:48,860 - __main__ - INFO - Export created: export_20251031_112248.json with 1 documents
+2025-10-31 11:22:48,870 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:48] "POST /api/documents/export HTTP/1.1" 200 -
+2025-10-31 11:22:53,280 - root - ERROR - Error getting task status undefined: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-10-31 11:22:53,283 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:22:53] "GET /api/tasks/undefined HTTP/1.1" 200 -
+2025-10-31 11:23:52,990 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:23:52] "GET /api/health HTTP/1.1" 200 -
+2025-10-31 11:24:17,440 - werkzeug - INFO - 127.0.0.1 - - [31/Oct/2025 11:24:17] "GET /api/documents/search/facets HTTP/1.1" 200 -

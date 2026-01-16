@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter / ML
+.ipynb_checkpoints/
+*.joblib
+*.pkl
+*.h5
+*.onnx
+models/*.bin
+models/*.pt
+models/*.ckpt
+
+# Logs & Cache
+*.log
+logs/
+cache/
+tmp/
+redis_dump.rdb
+
+# Data & Documents
+uploads/
+parsed_documents/
+raw_documents/
+outputs/
+*.pdf
+
+# Exports
+*.csv
+*.json
+*.xlsx
+
+# Database
+mongodb_data/
+*.db
+
+# Web / Framework
+static/uploads/
+media/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Git
+.gitignore

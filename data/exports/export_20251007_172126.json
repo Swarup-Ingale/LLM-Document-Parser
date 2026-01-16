@@ -1,0 +1,110 @@
+{
+  "export_info": {
+    "export_date": "2025-10-07T17:21:26.585979",
+    "total_documents": 1,
+    "format": "json",
+    "version": "1.0"
+  },
+  "documents": [
+    {
+      "_id": "68e4fe4a314634e90037779c",
+      "document_id": "5d475315-3143-4b8f-818d-23dea890c52a",
+      "user_id": "68e4fe05314634e900377797",
+      "filename": "invoice_professional.pdf",
+      "file_type": "pdf",
+      "file_size": 0,
+      "document_type": "receipt",
+      "extraction_data": {
+        "patterns": {
+          "total": [
+            "$820.00"
+          ]
+        },
+        "contacts": {
+          "email": [
+            "ethan.williams@example.com",
+            "accounts@technova.com",
+            "support@technova.com",
+            "billing@technova.com"
+          ],
+          "phone": [
+            "001122334455"
+          ],
+          "name": [
+            "us at",
+            "Axis Bank"
+          ],
+          "address": [
+            "412 Birchwood Lane 789 Innovation Park Denver, CO 80205"
+          ],
+          "zip_code": [
+            "80205",
+            "98765",
+            "43210"
+          ],
+          "contact_blocks": [
+            "Bank Name: Axis Bank Account Number: 001122334455 IFSC Code: AXIS0001234 SWIFT Code: AXISINBB123 Please make payments within the due date. Late payments may incur additional charges. Thank you for your business! For queries, contact us at accounts@technova.com. Authorized Signature: _______________________"
+          ]
+        },
+        "names": {
+          "candidate_names": [
+            "Ethan Williams",
+            "Item Description Quantity",
+            "Axis Bank Account Number"
+          ],
+          "primary_name": "Ethan Williams"
+        },
+        "entities": {
+          "PERSON": [
+            "Ethan Williams",
+            "Item Description Quantity"
+          ],
+          "ORG": [
+            "TECHNOVA SOLUTIONS PVT",
+            "TN-INV-2025-012",
+            "Birchwood Lane 789 Innovation Park Denver",
+            "AI Chatbot Subscription",
+            "API Integration Service",
+            "Bank Details: Bank Name: Axis Bank"
+          ],
+          "GPE": [
+            "Bangalore"
+          ],
+          "DATE": [
+            "98765 43210"
+          ],
+          "MONEY": [
+            "1 $299.00 $",
+            "299.00",
+            "185.50",
+            "371.00",
+            "1 $150.00 $",
+            "150.00",
+            "820.00",
+            "65.60"
+          ],
+          "PRODUCT": []
+        },
+        "features": {
+          "email_count": 4,
+          "phone_count": 1,
+          "currency_count": 10,
+          "date_count": 2,
+          "person_count": 2,
+          "org_count": 6,
+          "text_length": 1042
+        }
+      },
+      "processing_time": "2025-10-07T17:19:28.816249",
+      "text_preview": "TECHNOVA SOLUTIONS PVT. LTD. 789 Innovation Park, Sector 21, Bangalore, KA 560102 Email: support@technova.com | Phone: +91 98765 43210 <b>Invoice #:</b> TN-INV-2025-012 <b>Date:</b> 05/10/2025 <b>Due Date:</b> 05/11/2025 <b>Payment Terms:</b> Net 30 Bill To: From: Ethan Williams TechNova Solutions Pvt. Ltd. 412 Birchwood Lane 789 Innovation Park Denver, CO 80205 Bangalore, KA 560102 Email: ethan.williams@example.com Email: billing@technova.com Item Description Quantity Unit Price Total P001 AI Chatbot Subscription (Annual) 1 $299.00 $299.00 P114 Cloud Analytics Suite 2 $185.50 $371.00 P278 API Integration Service 1 $150.00 $150.00 Subtotal $820.00 Tax (8%) $65.60 Discount -$20.00 <b>Total Due</b> <b>$865.60</b> Bank Details: Bank Name: Axis Bank Account Number: 001122334455 IFSC Code: AXIS0001234 SWIFT Code: AXISINBB123 Please make payments within the due date. Late payments may incur additional charges. Thank you for your business! For queries, contact us at accounts@technova.com. Aut...",
+      "full_text": "TECHNOVA SOLUTIONS PVT. LTD. 789 Innovation Park, Sector 21, Bangalore, KA 560102 Email: support@technova.com | Phone: +91 98765 43210 <b>Invoice #:</b> TN-INV-2025-012 <b>Date:</b> 05/10/2025 <b>Due Date:</b> 05/11/2025 <b>Payment Terms:</b> Net 30 Bill To: From: Ethan Williams TechNova Solutions Pvt. Ltd. 412 Birchwood Lane 789 Innovation Park Denver, CO 80205 Bangalore, KA 560102 Email: ethan.williams@example.com Email: billing@technova.com Item Description Quantity Unit Price Total P001 AI Chatbot Subscription (Annual) 1 $299.00 $299.00 P114 Cloud Analytics Suite 2 $185.50 $371.00 P278 API Integration Service 1 $150.00 $150.00 Subtotal $820.00 Tax (8%) $65.60 Discount -$20.00 <b>Total Due</b> <b>$865.60</b> Bank Details: Bank Name: Axis Bank Account Number: 001122334455 IFSC Code: AXIS0001234 SWIFT Code: AXISINBB123 Please make payments within the due date. Late payments may incur additional charges. Thank you for your business! For queries, contact us at accounts@technova.com. Aut...",
+      "preview_data": {
+        "preview_generated": true,
+        "preview_url": "/api/previews/5d475315-3143-4b8f-818d-23dea890c52a/preview",
+        "thumbnail_url": "/api/previews/5d475315-3143-4b8f-818d-23dea890c52a/thumbnail"
+      },
+      "created_at": "2025-10-07T17:19:30.378000",
+      "updated_at": "2025-10-07T17:19:30.378000"
+    }
+  ]
+}
