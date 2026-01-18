@@ -7,6 +7,40 @@ An advanced document parsing system powered by Large Language Models (LLMs) that
 ## Prerequisites
     Python 3.8+
     OpenAI API key or compatible LLM API access
+## Before Set up make sure to create Files Structure similar to 
+    ```bash
+    
+        ├── data
+        │   ├── exports
+        │   ├── previews
+        │   ├── processed
+        │   │   ├── csv_exports
+        │   │   ├── csv_outputs
+        │   │   ├── json_outputs
+        │   │   └── reports
+        │   ├── raw_documents
+        │   │   ├── contracts
+        │   │   ├── invoices
+        │   │   ├── others
+        │   │   ├── receipts
+        │   │   └── receipt_images
+        │   ├── test
+        │   ├── training_data
+        │   │   ├── images
+        │   │   ├── invoices
+        │   │   └── receipts
+        │   └── uploads
+        │       ├── documents
+        │       ├── images
+        │       └── temp
+        ├── logs
+        ├── models
+        ├── scripts
+        │   └── __pycache__
+        ├── src
+        │   └── __pycache__
+        └── tests
+            └── test_data
 
 ## Set up
 1. Clone the repository:
